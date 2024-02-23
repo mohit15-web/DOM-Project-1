@@ -1,5 +1,5 @@
 # Background Color Changer
-+This project is a simple web application that allows users to change the background color of a target div element. It demonstrates basic DOM manipulation using JavaScript.
++ This project is a simple web application that allows users to change the background color of a target div element. It demonstrates basic DOM manipulation using JavaScript.
 
 # Features
 + Change the background color of the target div element to yellow.
@@ -10,4 +10,4 @@
 + Change the height of the element to 200 pixels.
 + Modify the width of the element to 300 pixels.
 
-[Hosted Link]
+# [Hosted Link](https://mohit15-web.github.io/DOM-Project-1/)
